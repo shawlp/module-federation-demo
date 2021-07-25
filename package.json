@@ -6,8 +6,7 @@
     "bootstrap": "lerna bootstrap --ignore-scripts"
   },
   "devDependencies": {
-    "lerna": "^4.0.0",
-    "wsrun": "^5.2.4"
+    "lerna": "^4.0.0"
   },
   "workspaces": [
     "packages/*"
